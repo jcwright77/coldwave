@@ -1,0 +1,26 @@
+#define WW		510
+#define WH		410
+#define CM_SEED 101
+#define CM_DONE 102
+//#define nptsk 	1000
+#define RESO_RANGE	20
+#define nptsw		8200 //RESO_RANGE*plot_h
+#define LIN		1
+#define LOG		2
+#define ID_DIALOG 	200
+#define IDB_KLIN	201
+#define IDB_KLOG	202
+#define IDB_WLIN	203
+#define IDB_WLOG	204
+#define ID_wce		205
+#define ID_wmin		206
+#define ID_zion		210
+#define ID_kmax		209
+#define ID_kmin		208
+#define ID_wmax		207
+#define ID_aion		211
+#define ID_theta	212
+#define ID_reso		213
+#define ID_KPOS		300
+#define ID_WPOS		301
+#define ID_KWPOS  	302
